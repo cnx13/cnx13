@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Christian Apodaca
 
-🎯 **Manual QA Engineer** | Functional & Regression Testing | Postman | Selenium | SQL  
+🎯 **QA Engineer** | Manual & API Testing | Selenium & Postman | SQL | Python Automation 
 📍 Based in Hermosillo, México | 🌎 Fluent in English (C1) & Spanish (native)
 
 ---
