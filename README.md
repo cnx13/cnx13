@@ -35,6 +35,13 @@ My background in **technical support** and **quality supervision** has equipped 
 
 ---
 
+## 📈 Projects & Highlights
+
+- **Streaming App A/B Testing**: Performed statistical testing and increased retention by 8.3%  
+- **Call Center Optimization**: Reduced dropped calls by 12% using Python scripts and shift analysis
+
+---
+
 ## 📬 Let's Connect
 
  <p align="left">
